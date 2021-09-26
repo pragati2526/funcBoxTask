@@ -12,14 +12,73 @@ export default function Plans() {
             <h2 style={{textAlign:"center"}}>Plans</h2>
             <Container fluid style={{marginTop:"40px"}}>
                 <Row>
-                    <Col xs={4}>
-
+                    <Col xs={4} style={{textAlign:"center"}} className="align-self-center">
+                        <div style={{background:"#F05D6A",borderRadius:"9.65216px",width:"70%",color:"white"}}>
+                            <h3>Basic</h3>
+                            <ul>
+                            <li> FuncBox Binder </li>
+                            <li>  3 mathematical apps </li>
+                            <li>  3 scientific apps</li>
+                            <li>  3 game apps</li>
+                            <li>  Stickers</li>
+                            <li>  Kickstart guide</li>
+                            <li>  Interactive website</li>
+                            </ul>
+                        </div>
+                        <div style={{background:"#EDEEFF",borderRadius:"9.65216px",width:"70%"}}>
+                       <p style={{color:"#241663"}}> Monthly a/month <br/> <br/>
+                        Quarterly a/month<br/> <br/>
+                        Half-yearly a/month<br/><br/>
+                        Yearly a/month</p>
+                        <button style={{color:"#F05D6A",background:"#EDEEFF",border:"none"}}>Add to cart</button>
+                        </div>
                     </Col>
-                    <Col xs={4}>
+                    <Col xs={4} style={{textAlign:"center"}} className="align-self-center">
+                    <div style={{background:"#FFD27B",borderRadius:"9.65216px",width:"70%",color:"white"}}>
+                            <h3>Standard</h3>
+                            <ul>
+                            <li> FuncBox Binder </li>
+                            <li>  5 mathematical apps </li>
+                            <li>  5 scientific apps</li>
+                            <li>  5 game apps</li>
+                            <li>  Stickers</li>
+                            <li>  Mini fun deck</li>
+                            <li>  Kickstart guide</li>
+                            <li>  Interactive website</li>
+                            </ul>
+                        </div>
+                        <div style={{background:"#EDEEFF",borderRadius:"9.65216px",width:"70%"}}>
+                       <p style={{color:"#241663"}}> Monthly a/month <br/> <br/>
+                        Quarterly a/month<br/> <br/>
+                        Half-yearly a/month<br/><br/>
+                        Yearly a/month</p>
+                        <button style={{color:"#FFD27B",background:"#EDEEFF",border:"none"}}>Add to cart</button>
+                        </div>
                         
                    </Col>
-                   <Col xs={4}>
-                        
+                   <Col xs={4} style={{textAlign:"center"}} className="align-self-center">
+                   <div style={{background:"#36BFA5",borderRadius:"9.65216px",width:"70%",color:"white"}}>
+                            <h3>Standard</h3>
+                            <ul>
+                            <li> FuncBox Binder </li>
+                            <li>  8 mathematical apps </li>
+                            <li>  8 scientific apps</li>
+                            <li>  8 game apps</li>
+                            <li>  2 Surprise goodies </li>
+                            <li>  Mystery toy </li>
+                            <li>  Stickers</li>
+                            <li>  Mini fun deck</li>
+                            <li>  Kickstart guide</li>
+                            <li>  Interactive website</li>
+                            </ul>
+                        </div>
+                        <div style={{background:"#EDEEFF",borderRadius:"9.65216px",width:"70%"}}>
+                       <p style={{color:"#241663"}}> Monthly a/month <br/> <br/>
+                        Quarterly a/month<br/> <br/>
+                        Half-yearly a/month<br/><br/>
+                        Yearly a/month</p>
+                        <button style={{color:"#36BFA5",background:"#EDEEFF",border:"none"}}>Add to cart</button>
+                        </div>
                    </Col>
                 </Row>
                 <Row>
