@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/funcBoxTask/static/css/main.f0618cf9.chunk.css",
-    "main.js": "/funcBoxTask/static/js/main.e144e397.chunk.js",
-    "main.js.map": "/funcBoxTask/static/js/main.e144e397.chunk.js.map",
+    "main.js": "/funcBoxTask/static/js/main.ed77550e.chunk.js",
+    "main.js.map": "/funcBoxTask/static/js/main.ed77550e.chunk.js.map",
     "runtime-main.js": "/funcBoxTask/static/js/runtime-main.084d09ec.js",
     "runtime-main.js.map": "/funcBoxTask/static/js/runtime-main.084d09ec.js.map",
     "static/css/2.7254f21d.chunk.css": "/funcBoxTask/static/css/2.7254f21d.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.7254f21d.chunk.css",
     "static/js/2.d265ac7d.chunk.js",
     "static/css/main.f0618cf9.chunk.css",
-    "static/js/main.e144e397.chunk.js"
+    "static/js/main.ed77550e.chunk.js"
   ]
 }
