@@ -18,7 +18,7 @@ function App() {
         <div >
         
         <Switch>
-          <Route exact path="/pragati2526.github.io/funcBoxTask">
+          <Route exact path="/funcBoxTask">
           <Navbar/>
             <LandingPage/>
             <Footer/>
